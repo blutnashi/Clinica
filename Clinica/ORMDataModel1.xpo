@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3d68796d-2617-492d-a44e-63ea99eaac90" namespace="Clinica.Database" dataBaseShemaInfo="H4sIAAAAAAAEAO1cbW8bNxL+XqD/wfCnHlDafH8pFBdN3BbBXYsgSQ93n4whOUz2Kq18WslJ7tffrCXZkmXHsr3WNm79wfZS3B0+5HDmmeGsBt9/HA33znDSVOP62b444PvfH3391eA5NPhmOp7AO3xZl/Ee9aqb7z421bP999Pp6XeHhx8+fDj4oA7Gk3eHknNx+K9f/vEmvccRsKpuplAn3L+4K99+1z5J3dsbvIU4xKYVeX69bFlpWDbt/QojfLafxnUzG04X9y86vJpUI5h8+jt+2nvZ/FZX/51Rz+lkhqu9qN+L8XA2qpu1RmpuppOqfndU5cHh4t+1uw43bxscXopcbb5OwOD4+bx5b/7n7adTGt3Leqrk/gJUlfdp4PSsxajp4tfZcNjCfrZfYNhQ0/Hz9sZF/3r6jf3b/t7hXQWdQqqwnm4nQYgtRRzDFN9WI1xKKZjew3tSplvFZGjHcmcYTfWuHjdn1RRIeTqdrTfn67+UM44NTs5ozsb1/t6b6n/UZJS5VeAZTGgCJt9Q33uJPa6gxTet0niXYl9jQtpYnUi8dtO8rDN+xI3dcd68GMOr1y9/+eH1v/c/u49v3Mm37uXrB9a2LobxubFVy91zcp0R2mpYyyc8wuDW9sT9R7j2mAcPc3C4ueaDn8YTJClk7jZU4fKjK+b+pIrl9xMyAJd29+1cLS9M2k7WYs3ZnI+A/t4mqZ6NThp8N5uMb5S13UPbKb6cojtOnrpm8tYN6e505V7TWOWT5uyxZnBweJ1aDg7PH3Z5/WN9ft3apMHh4uLiw+OqaRt+O23d2tG5vSR5a40XfX+eVfllPrLapBCMZxgLZ1p7yQC9Z0oaK5KHwDUMDhedL25eIFtjSTc20wetOsw/PDeMK5dr3T4H7q4AV0HKklBlXpiQ2TAtAZh3WTA0ziurnEKbNkCuqM59cI4wk/vcPVbg2SoJmYUiaUG5jwyKS8x4lMizMwFd11gvLdmu0dqsINiSCSg4plURDGSRpL4yF0XabGTsGu0Fu9w9XKNlUSpyJrgkzNEBg4CKiSK0ctY4AbpruFeM7K4hR59bOwRMKK+Z9lGxkL1iyhcVaSsr5JsG6oGQV2h3D2sslNDAOZMZA9M5AwvBB+ayydppjjQFj6LSt0JdQLgd63xObofKFz/sml/Ln66hbrVxnwTSlShu91qstQtS+8wUOsm0CJlFDEQzTLQYQDiwnbuhefzYgxNKwTuNjpmQyOWis4TVeiZl1EpmUVzu3AnNyELtHmmKXJA9JnqYORGpKAOLTkQmbJLCgypema6R/qeqP/agv85pEUtkwaNl2gjDYlSKeAbRKBldsHegjNe1Lpj9HTKPeSUrsyryz5h83Do1uCbpIinRqYj1JBbWBSdE/iHvMnXWeaLwCeTPHpz7Wdlw8wyGuCaDce9E1x0R3jNj8cTSFS4lpdAIJjWQWQZiFOAssMItxbfWkFnedEBfWrpCK2WLi5YVkSgC0CIzz7Nk6LVLQkoDInTtZZdqvHu0hWdhckQmPUWyOhBdBGs1y9kqbzhSTNs5U7w00j0kaEwUURbNjPeOaemB+UigESXXOkQuY+fJqH4D2kT0iaJ0Zp0SBDhpFn30zICL3tBGFmZ7de6GSs2Tc4/Cok7aZ/dHpc7F351P6Xuxjno8ihNcEg7Jt+Ybkt9LHpzicFjl8e4kYnOKqQISesnnxPa8SvzxaNXN+tklt1oB/eicIDvw0VIo6mIh+1JcaJOibXhqyHUWKTJsJswexgkWk7hrS+rIO1pUjplsM9PKGBa00UwiqGBTREyd50Lne7wHWpBlTrxIFm17ZuMDMMilMCOdlkpYbVB2jXVpX3aPlhfrghRECnIitE4mBhIEcQSZLUoTueueBK3Yth6SZrGAcLRhpQ1E+wRxv2CsYcCTpXVXJaTtjzK6YQXXneR3xAtuOYHfATW4HMEjZlv+bPQgYZ4NLyqWhN6eGGxLuDZK2+j2kxpSh5Vt65CmOMQyrsddsJ0t1WQ2wsn4BOn3O6zJIj0ForVFyc2XyLV4QSltLkyqloEIZ1mg+J3CdhmDE8FGv+mnHsK1Vudx56cdnvtcgPiVzUBgpWbeuMRsRApgJbRnAU+FbnHl0FuiHdYnSctpEguQkDnptUeFkkPnZ1j90a0oDForDfPZJqatiQyESixq9EUSB0PT+crOfUUf+SarrIW27skGpolEE8fSbfqlBFBcoSidHz0vvdTu0QbjPHCVWZKJ9qzRnIXoeRsWJqMhqpA7D5GWLrMHEq2UNUJ5ljnFv1p4ZB6TYyXKmJN1kFPu3EJdddc9GGahswFoIwaOFBtay6AgMG6TIH22yfntjVU3scONhazdJRZvqD3dTVqxOdvRGyJVfpx3RN7QvA0vaPQpNuNbn1+GY5jeh9GeTrBZOYl1W9NYd58ZI5UbbnekLe/Fz6c4OsUJTGeTC2a+faBzv8TyynlF+37No56jr+kFNtMF0FsUoe/44vO16NuGFhvDW9l9dx9RZy+XPPjkfv1dlBvP7neNde+P+fJGT2f5IsYguHEUY2Qi4Zg9C5kuM/cWwRqThe86b9/umZ0f52evZJuwN9JQpCyIn/lMUWXGrEBp7QwvXZO0VQXdNV4UroSQAq2rgLYc0jAwRjFlInBfRNJqc10fiLf15z2cbEsoKfnMomuLXBUtKgipGIXQihejBcUinSOdc4sewLoCAXX7Oklb5SpdYgE9cXBZssnBOSM7r0s/pzY9BJGFK51MZg5VZDpQ/BhDAOYtj8EnGxR2Xua6wrL6qHaFQOpaWCC729akSBa51iwaHq2KwUHER6xJ6eO9kiCUAqc5Mz7S3uXcsZhyYbRxVVJSWOE7L8NZssse0nshgraFs2CtJ42mYDmQU2LK6hJzEqak7Re4m4h51sxgUo0fI1ieF8f3Eyu3sndVf3MKTfNhPLmoTLHbx2X2qsS+A5ob16zLwGGXRyUaUwmCXEcqUTFieYJFKQxTsnhVgs4gNnNzD6G3/bwSEgI3xkvdcneyLK5l8bIt9lNGheyyk6ZzWrDU+x7sqFTFWPIakla3rdMg/qOIGeS2HIXimYy4PePryo6Swenehn5Z74N0Yz/bMWxpP9W2ubSb6jPvDKlvA/0o32iymI+7j2U3ZYy3JprazXdzfmmzzPjR0N0rtXSboC8zr6QSz8p5yyS5H6ZLEsxzV1q3pIoVQEHNl/+VFqB0TGgTU1qSIwpFM4BsmTFAzrhkIXjnJ9j9ud1MzlW4zJmg2IxpX5B5T0sqPCSHyfICnaPtrcoXkk42WwpFDbT1zCWwaKNm3BlwwQeV8/a1oN1xjBPIo6r+K1r7K1p7itEaz7IYYRWZFKOZxmBZaN/PMlZ5DiHEmLo9jOgnWlNKQUIvmAxt1qutuvbAIyP/EYoPPrun5DaU004548h0tkwgtu9LOGPpkkPM0UIK26PdxpIuri+7DNrvNMX8ajJO540LlR78c/4FqEfHePbjxzal3xwcwxQOziQ/EN/uLT5+1l4dqAP+7d6L2XA6m+CzGmfTCQy/3Xs1i8MqtdRs/DvWz6L3WTijaQE56kAEZyniXN6LIS0CNu0CvJ5dzO7gh0xDw1J9vNhqbdObWVlreo2j8Rle7Thvvdr3BTR49AJO26NXsnI0aW3DfG6uGwT5kPEpTqZV34O7YRyDn7Fu0/Kkt6MR1tNmoaUbzWudj7E9gcbJTxUpw5U71j87v23pA57jezirxhNSiwK04LRjrn7y9VeDwyvflXv0f/Bm5ZZUVwAA" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="ConnectionString" createdInVersion="20.1.3.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="20.1.3.0" name="Database" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <comments>
+    <dataBaseObjectModelHasComments Id="b2ec09d3-1b3f-4336-8786-60f3fc701ad4">
+      <comment Id="d272e607-a4db-49fb-840a-490ba5cb8e9d" text="The 'PRIMARY' index is ignored, because 'id' is a key;&#xD;&#xA;The 'imedico_consulta' index is ignored, because 'medico' is an association key;&#xD;&#xA;The 'ipaciente_consulta' index is ignored, because 'paciente' is an association key;&#xD;&#xA;The 'isignosvitales_consulta' index is ignored, because 'signosvitales' is an association key" name="ConsultaComment">
+        <subjects>
+          <commentReferencesSubjects Id="86f65476-c935-477d-a167-a044248d6a81">
+            <xpObjectMoniker Id="645c9958-ebf0-4482-ae88-32561c8a904a" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="6ab0b681-2d07-4a14-9c9c-3ad36a0d258a">
+      <comment Id="40b01781-bd64-4306-aaa9-a011a0315a37" text="The 'PRIMARY' index is ignored, because 'id' is a key" name="DiagnosticoComment">
+        <subjects>
+          <commentReferencesSubjects Id="85032967-06f9-48d1-a77a-f9a94382194a">
+            <xpObjectMoniker Id="7cc33e51-24a6-4a98-a76a-f068e2659665" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="2273f378-e372-486d-9547-f47a7a24f7ef">
+      <comment Id="5b6d720e-7c40-4314-a513-49cb9c4f24f0" text="The 'PRIMARY' index is ignored, because 'id_medi' is a key" name="MedicoComment">
+        <subjects>
+          <commentReferencesSubjects Id="9b5a50f0-b017-4a39-9a34-7bafe319947f">
+            <xpObjectMoniker Id="d7a8b629-7bf1-4f79-a9e5-4b541df21da3" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="3b583167-102c-4da3-809b-fc6cbc46e59f">
+      <comment Id="707b3051-de2b-4214-8f18-2ef8c94e9d6d" text="The 'PRIMARY' index is ignored, because 'num_seguro' is a key" name="PacienteComment">
+        <subjects>
+          <commentReferencesSubjects Id="f7473d5c-7ce7-4a80-b840-83ec0ea4a3c4">
+            <xpObjectMoniker Id="0fe226df-236d-4176-90d1-492b97196b87" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="8fc5ee29-07b4-4cca-b274-28eb9dd30a75">
+      <comment Id="9533dac1-9f52-4d23-888e-0d9b33cfd665" text="The 'PRIMARY' index is ignored, because 'id_sv' is a key;&#xD;&#xA;The 'idpaciente' index is ignored, because 'idpaciente' is an association key" name="SignosvitalesComment">
+        <subjects>
+          <commentReferencesSubjects Id="35ca8597-bc64-4082-b39d-6f952bae9d4b">
+            <xpObjectMoniker Id="1bb91057-72dc-4ed8-9d57-d086ea655d18" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="0a194c12-eed7-47da-8ae7-92ca0bcafbc1">
+      <comment Id="a72b1e15-8585-4c86-88f0-37778fba86b3" text="The 'PRIMARY' index is ignored, because 'user' is a key" name="UsuariosComment">
+        <subjects>
+          <commentReferencesSubjects Id="b8259ac7-5049-44bd-8ef2-def598df33d1">
+            <xpObjectMoniker Id="4ecf9180-cfb3-4751-b215-32f83f94da1d" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="f1238277-91d4-469f-8630-d60491df4036">
+      <comment Id="0da418df-27c3-41b8-9c06-1045dd731fc7" text="The 'PRIMARY' index is ignored, because 'id' is a key;&#xD;&#xA;The 'id_medi' index is ignored, because 'id_medi' is an association key" name="UserComment">
+        <subjects>
+          <commentReferencesSubjects Id="df134989-536e-4b04-a65c-233a40b46f81">
+            <xpObjectMoniker Id="3c0d3786-2d7d-4fc1-807f-9203f61ab50a" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="cd6eda79-dfb3-4425-b6f1-485da6371536">
+      <comment Id="5d38192f-1c9e-4b99-89fd-15046267d00d" text="The 'PRIMARY' index is ignored, because 'user' is a key" name="User_adminComment">
+        <subjects>
+          <commentReferencesSubjects Id="e728a5d6-c416-4bea-ba67-5a4b7a8d8177">
+            <xpObjectMoniker Id="0d2f5163-1854-4e96-9887-56380a99bbc8" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+  </comments>
+  <classes>
+    <dataBaseObjectModelHasClasses Id="290e8142-3555-4b91-8423-b3758727ef2a">
+      <xpObject Id="645c9958-ebf0-4482-ae88-32561c8a904a" name="Consulta" baseClass="XPLiteObject" userFileName="Consulta" designerFileName="Consulta.Designer" className="Consulta" virtualBaseClass="XPLiteObject" persistent="consulta" virtualName="Consulta">
+        <fields>
+          <generalXpObjectHasFields Id="009e47aa-4b72-44ec-911e-cde717645d1d">
+            <field Id="2fce3d0f-12d5-42aa-87d1-e57836373e6c" name="Id" columnType="Int32" key="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2034eae1-04e9-4b08-b09d-52b16795b109">
+            <field Id="a0d632ad-9f20-408b-af7c-58e2e0d759e7" name="Medico" columnType="Int32" persistent="medico" virtualColumnType="Medico" logicalType="Medico" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="1d30645b-4fb4-4ee3-8ac8-86066e7c08b6">
+            <field Id="6d3a96fd-40a7-43f1-a2f2-322df348252b" name="Paciente" columnType="Int32" persistent="paciente" virtualColumnType="Paciente" logicalType="Paciente" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e5e5d67f-3238-4fc0-aa6b-ef1775191aeb">
+            <field Id="542f33b0-102d-4b7a-a9e3-1f14376571a4" name="Fechahora" columnType="DateTime" persistent="fechahora" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2c3a7fd0-bb5f-4a6e-94b4-e6089a8c438f">
+            <field Id="b8d1c8aa-1384-48b3-9d83-38f3b42a3e0a" name="Signosvitales" columnType="Int32" persistent="signosvitales" virtualColumnType="Signosvitales" logicalType="Signosvitales" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="50d07117-8a3a-4f2e-b90e-6c67a693021c">
+            <field Id="51314a00-2de9-4dda-9989-7d5d4740e8b3" name="Observacion" persistent="observacion" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="535" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2cfdf903-c6e3-40eb-b903-429c674f32bc">
+            <field Id="4479248d-3e72-419d-be98-e5b6e9a17a67" name="Diagnostico" persistent="Diagnostico" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="535" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="00ce25a5-3725-4b83-aa29-d7845dccc5de">
+            <field Id="6c9874e7-59c0-4e76-be68-22b432d1f7db" name="Receta" persistent="Receta" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="535" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="ff08cecc-5b46-4a3a-90c5-1bac6a1c42a4">
+            <field Id="cb018d18-3d05-4b29-b71b-16c218a3f835" name="User" columnType="Int32" persistent="user" virtualColumnType="Medico" logicalType="Medico" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f6611ebb-3a1d-4d1f-9153-0fbf4fc0d1ed">
+            <field Id="47741bfb-98e6-4515-bb33-40e2e2b7966c" name="Jinx" columnType="Int32" persistent="jinx" virtualColumnType="Medico" logicalType="Medico" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="1a78d0ff-5504-4db3-a727-f69a37141a97">
+      <xpObject Id="7cc33e51-24a6-4a98-a76a-f068e2659665" name="Diagnostico" baseClass="XPLiteObject" userFileName="Diagnostico" designerFileName="Diagnostico.Designer" className="Diagnostico" virtualBaseClass="XPLiteObject" persistent="diagnostico" virtualName="Diagnostico">
+        <fields>
+          <generalXpObjectHasFields Id="dbc3512d-16fb-4c4d-bfd6-c6e53385e912">
+            <field Id="4336f7b6-f1c9-441d-80d2-e847c1225a19" name="Id" columnType="Int32" key="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b0d44133-85dc-4fec-ba1c-95fe6b2e90c2">
+            <field Id="f0d15dbe-28e3-4972-a664-dd63850e71a7" name="Consulta" columnType="Int32" persistent="consulta" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="506ca6f7-afae-49eb-8257-2dc67a3500de">
+            <field Id="a5b1b2f4-5887-428a-8b72-ee20449b02bc" name="Enfermedad" persistent="enfermedad" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="535" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0b8fa4b9-e1f6-4e05-957a-199a669a8e32">
+            <field Id="5c451e0a-6731-42c4-b8b8-5a7b8524a159" name="Observacion" persistent="observacion" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="535" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="5b92f172-f897-42dd-aa73-2ab35a145a74">
+      <xpObject Id="d7a8b629-7bf1-4f79-a9e5-4b541df21da3" name="Medico" baseClass="XPLiteObject" userFileName="Medico" designerFileName="Medico.Designer" className="Medico" virtualBaseClass="XPLiteObject" persistent="medico" virtualName="Medico">
+        <fields>
+          <generalXpObjectHasFields Id="b16f1e60-e9b0-429d-b1f9-6440e7bbc712">
+            <field Id="74976e37-5d6d-4355-9454-2ea396cbeeca" name="Id_medi" columnType="Int32" key="true" persistent="id_medi" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="fc868abc-4794-4513-9b17-f4f040b6a2f6">
+            <field Id="fd2dc0f2-b6d5-489a-adff-5274231645e2" name="Nombre" persistent="nombre" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="20" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="993ceb76-c7d7-490a-882d-bffb1215043d">
+            <field Id="0f679214-5dc5-472c-a2a1-582d6e25b077" name="Apellido" persistent="apellido" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="20" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2c14f442-dafe-4a62-887b-b1ddd45e47cb">
+            <field Id="6bfa17f1-2693-41e3-9565-a0c6c0f3f9c4" name="Especialidad" persistent="especialidad" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="15" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="8b93a26f-e5ab-48c3-a599-bcf1a2eb86f4" sourceCollectionName="Users" name="UserReferencesMedico" targetFieldName="Id_medi">
+            <xpObjectMoniker Id="3c0d3786-2d7d-4fc1-807f-9203f61ab50a" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="118fcc16-a832-449a-bd19-472d344588d8">
+            <collectionField Id="c9c8a7ca-2503-4e03-9526-089db2d3f219" name="Users" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="30fca8ad-d61a-43ff-9562-b5db895115d7">
+      <xpObject Id="0fe226df-236d-4176-90d1-492b97196b87" name="Paciente" baseClass="XPLiteObject" userFileName="Paciente" designerFileName="Paciente.Designer" className="Paciente" virtualBaseClass="XPLiteObject" persistent="paciente" virtualName="Paciente">
+        <fields>
+          <generalXpObjectHasFields Id="d0a08d31-0566-42b9-ba41-1c44267720f5">
+            <field Id="c808dfa4-26da-4124-857c-6beb8b2a40e2" name="Num_seguro" columnType="Int32" key="true" persistent="num_seguro" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3728016d-32e2-4504-a5d7-079d3ddfe0bd">
+            <field Id="037e862c-68c2-495c-9ace-72848e3e20ab" name="Nombre" persistent="nombre" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="20" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="2053cce4-b714-4cff-be57-a1354cc802dc">
+            <field Id="b15e6625-8d6c-465b-a13c-b4e8f25dce52" name="Apellido" persistent="apellido" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="20" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="ba805688-40e5-4d2f-af57-6105e9ac2777">
+            <field Id="a56366a5-4269-4adf-a048-5af9a303e1f0" name="Cedula" persistent="cedula" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="14" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4d5ce383-fee0-4408-af91-e3bd6797d28d">
+            <field Id="9578a03d-c2ca-4540-9b80-4f7c54ab39da" name="Fcha_nac" columnType="DateTime" persistent="fcha_nac" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5845adc8-5551-4c35-a24b-ea4ae41f26db">
+            <field Id="63365138-d029-418e-8ec7-fb2bdc67adcd" name="Telefono" persistent="telefono" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="15" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="56e85bbe-6b13-4579-9fa3-2fc607487bb4">
+            <field Id="c14d5aa3-950e-4866-afea-06c13e16c78b" name="Numero_emergencia" persistent="numero_emergencia" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="15" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="20fdd570-cdac-4691-a78b-2b514c0fa448" sourceCollectionName="Consultas" name="ConsultaReferencesPaciente" targetFieldName="Paciente">
+            <xpObjectMoniker Id="645c9958-ebf0-4482-ae88-32561c8a904a" />
+          </simpleAssociation>
+          <simpleAssociation Id="6cafc057-ab5c-4bc7-b8dd-c9aa1c714e3d" sourceCollectionName="SignosvitalesCollection" name="SignosvitalesReferencesPaciente" targetFieldName="Idpaciente">
+            <xpObjectMoniker Id="1bb91057-72dc-4ed8-9d57-d086ea655d18" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="86c23f76-c5d9-49ad-8e8a-68e9ef56b3ae">
+            <collectionField Id="2523191a-478b-4cc3-ae3a-756825fe53b9" name="Consultas" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="03c3d9ba-83d4-49ef-9db8-5917690ca1c1">
+            <collectionField Id="044bfe46-1315-4e75-bdd9-4ae64add9bbc" name="SignosvitalesCollection" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="f164cc28-dce0-4781-afb4-b89eb7bd5a1c">
+      <xpObject Id="1bb91057-72dc-4ed8-9d57-d086ea655d18" name="Signosvitales" baseClass="XPLiteObject" userFileName="Signosvitales" designerFileName="Signosvitales.Designer" className="Signosvitales" virtualBaseClass="XPLiteObject" persistent="signosvitales" virtualName="Signosvitales">
+        <fields>
+          <generalXpObjectHasFields Id="298f8946-b5a0-4be9-8653-e5c1e2840763">
+            <field Id="4d832d6d-5251-41c7-8da4-ded3a344750f" name="Id_sv" columnType="Int32" key="true" persistent="id_sv" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c6ddec04-f71d-4711-b726-296371f80cbd">
+            <field Id="e17f99c9-721a-4e75-a553-35ba08f1c438" name="Idpaciente" columnType="Int32" persistent="idpaciente" virtualColumnType="Paciente" logicalType="Paciente" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a7699309-538b-475b-8486-90b226264ef8">
+            <field Id="52afcc8d-b772-43a4-a123-8c230f54178a" name="Peso" columnType="Single" persistent="peso" virtualColumnType="Single" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b6445929-6e52-4086-b860-6e6825337b84">
+            <field Id="57fa9e4b-afc0-427c-9e83-92fd5d977523" name="Presion" persistent="presion" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="7" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c33c5531-7521-4940-ab0b-796ee5997550">
+            <field Id="9f034c5d-7e3b-4980-b99a-860b98c693e5" name="Talla" columnType="Int32" persistent="talla" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d9332f67-4e54-4d12-89bf-63580c83a1eb">
+            <field Id="47a9541f-9a65-4282-b044-b50b63b97abe" name="Temperatura" persistent="temperatura" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="4" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4a8c01d9-a638-433a-892f-3bd56f1da8e7">
+            <field Id="9133a740-58b2-4007-bcdf-30f3c321618c" name="Observaciones" persistent="observaciones" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="535" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="bd16ad68-7d3b-4dc3-9694-2fa76bc9d3c5">
+            <field Id="09ba46f0-9668-49ea-932d-364fbdc15fce" name="Estatura" columnType="Single" persistent="estatura" virtualColumnType="Single" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="6e36f180-9401-45ad-a235-e0ba3832f3ff" sourceCollectionName="Consultas" name="ConsultaReferencesSignosvitales" targetFieldName="Signosvitales">
+            <xpObjectMoniker Id="645c9958-ebf0-4482-ae88-32561c8a904a" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="6ce39956-8fdb-4c18-be4f-1d8fb36a1b5a">
+            <collectionField Id="47d01a8e-87eb-460a-97c0-14b8c12a2221" name="Consultas" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="f71c6634-67f9-4a7e-807c-a88e96cdeb9f">
+      <xpObject Id="4ecf9180-cfb3-4751-b215-32f83f94da1d" name="Usuarios" baseClass="XPLiteObject" userFileName="Usuarios" designerFileName="Usuarios.Designer" className="Usuarios" virtualBaseClass="XPLiteObject" persistent="usuarios" virtualName="Usuarios">
+        <fields>
+          <generalXpObjectHasFields Id="241b0753-774b-4bd0-b2c4-5f2b4b52887a">
+            <field Id="99055824-9d58-47d8-920a-63539d7d7253" name="User" columnType="Int32" key="true" persistent="user" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e0468536-e151-4702-8cd2-9927377929f1">
+            <field Id="023f5640-2ecf-4723-939a-d45e2bb9deea" name="Password" persistent="password" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="64" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="eccb8542-2f18-40aa-b343-4a57aa46d5f9">
+      <xpObject Id="3c0d3786-2d7d-4fc1-807f-9203f61ab50a" name="User" baseClass="XPLiteObject" userFileName="User" designerFileName="User.Designer" className="User" virtualBaseClass="XPLiteObject" persistent="user" virtualName="User">
+        <fields>
+          <generalXpObjectHasFields Id="b5ff7d79-1042-4ee2-96a6-3522814de612">
+            <field Id="a34bce6c-342f-49f4-aad6-55a824fd1102" name="Id" columnType="Int32" key="true" persistent="id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f5cbac3f-40fa-4bfb-93dd-e3ad7bc27e70">
+            <field Id="de2b17d0-13c3-48fe-887f-18ac7ec60fa2" name="Password" persistent="password" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="32" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9a2d4b7d-85e8-4056-8bab-fc976350c32d">
+            <field Id="ac4c6d6f-35a1-4ff9-b6b4-075a79893dd7" name="Id_medi" columnType="Int32" persistent="id_medi" virtualColumnType="Medico" logicalType="Medico" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="95c00cfb-f3d5-4756-9811-5c26e62de64c">
+      <xpObject Id="0d2f5163-1854-4e96-9887-56380a99bbc8" name="User_admin" baseClass="XPLiteObject" userFileName="User_admin" designerFileName="User_admin.Designer" className="User_admin" virtualBaseClass="XPLiteObject" persistent="user_admin" virtualName="User_admin">
+        <fields>
+          <generalXpObjectHasFields Id="fdea0c67-6c65-4bcd-978b-b4f27a45c0ba">
+            <field Id="333ace81-29b2-41e3-8a0b-9f49f898d702" name="User" columnType="Int32" key="true" persistent="user" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="1c7ee3a3-7b9f-418d-a958-001c6ac926fc">
+            <field Id="37473757-077d-4b55-9756-070abdb6ac92" name="Password" persistent="password" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="64" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
